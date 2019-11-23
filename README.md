@@ -1,1 +1,1 @@
-# C_histogram_Korinovskiy
+# Histogram Кориновський Богдан
